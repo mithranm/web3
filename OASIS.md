@@ -1,5 +1,15 @@
 # AI Agents in the Digital Economy
 
+## Oasis Protocol: Definition
+
+The Oasis is a next-generation network protocol designed specifically for high-bandwidth, low-latency data transfer between AI agents. Built on decentralized web technologies like dHTTPS and Token3, it provides a robust, secure infrastructure for AI interactions while maintaining full backwards compatibility with existing internet protocols.
+
+Key Characteristics:
+- Optimized for AI agent communication
+- Decentralized and secure
+- Seamless integration with current internet infrastructure
+- Enables complex, high-volume data exchanges
+
 ## 1. Core Functions
 
 ### Information Processing
